@@ -2,7 +2,7 @@
 
 A simple [Hyper](https://hyper.is) Terminal plugin that enables vibrancy on MacOS.
 
-![screenshot](https://github.com/JaHes/hyper-vibrance/blob/master/screenshots/ultra-dark.png?raw=true)
+![screenshot](https://github.com/JaHes/hyper-vibrance/blob/master/screenshots/dark.png?raw=true)
 
 ## Installation
 

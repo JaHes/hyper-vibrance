@@ -1,0 +1,17 @@
+{
+    "name": "hyper-vibrance",
+    "version": "0.1",
+    "main": "index.js",
+    "description": "Enables vibrancy for Hyper terminal on mac",
+    "repository" : "JaHes/hyper-vibrance",
+    "keywords": [
+      "hyperterm",
+      "hyper",
+      "vibrance",
+      "vibrance theme",
+      "vibrancy",
+      "vibrancy theme"
+    ],
+    "author": "James Hesketh",
+    "license": "MIT"
+}
